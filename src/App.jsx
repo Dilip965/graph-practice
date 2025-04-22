@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-
+// nice
 import './App.css'
 import RadarChartComponent from './component/radarchart1'
 import ProductPriceVsSalesChart from './component/scatter2'
